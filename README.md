@@ -1,5 +1,6 @@
 # vscode-quick-select
 
+This is a fork of https://github.com/dbankier/vscode-quick-select due to lack of maintenance
 
 Yes I know about the ⌃⇧⌘← and ⌃⇧⌘→ expand/shrink selection. Having come from VIM I think these are still missing.
 
